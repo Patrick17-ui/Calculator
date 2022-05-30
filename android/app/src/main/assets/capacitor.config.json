@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "CalculatriceIN",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
