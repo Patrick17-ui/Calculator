@@ -1,0 +1,7 @@
+{
+  "name": "CalculatriceIN",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
